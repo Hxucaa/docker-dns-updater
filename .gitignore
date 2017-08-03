@@ -1,0 +1,14 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Scala template
+target
+*.class
+*.log
+
+*.iml
+*.ipr
+*.iws
+.idea
+out
+
+# secrets
+src/main/resources/credential.conf
